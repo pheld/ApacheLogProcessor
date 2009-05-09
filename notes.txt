@@ -1,0 +1,14 @@
+TODO:
+
+X make executable
+X take arguments and open a file
+X take arguments for thread count
+- make multi-threaded
+X cache DNS lookups
+X age cache items
+X recognize IP addresses in log lines
+X do DNS lookups with IP addresses
+X replace IP addresses with name
+X handle errors and timeouts for name lookups
+- fill a queue of log lines to replace IP addresses in
+- spawn threads for each log line
